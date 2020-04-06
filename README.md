@@ -77,7 +77,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 11 | M | Workshop papers/office visits | Schedule |  |
 | May 13 | W | Dynamic programming with interpolation | Notebk | PS3 |
 | May 18 | M | Dynamic programming with interpolation |  |  |
-| May 20 | W | Workshop papers/office visits |  |  |
+| May 20 | W | Workshop papers/office visits | Schedule |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
 | May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Methods/initial results section due](Assignments/methods-results.md) |
 | Jun  1 | M | Overlapping generations models | Notes | PS4 |
