@@ -71,16 +71,15 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 20 | M | Data/methods section of paper | Slides |  |
 | Apr 22 | W | Computational results section of paper | Slides |  |
 | Apr 27 | M | Kernel density estimation | Notebk | PS1 |
-| Apr 29 | W | Kernel density estimation | [Lit review section due](Assignments/lit-review.md) |  |
-| Apr 29 | W | Parallel computing | Notebk | PS2 |
-| May  4 | M |  |  |  |
+| Apr 29 | W | Kernel density estimation |  | [Lit review section due](Assignments/lit-review.md) |
+| May  4 | M | Parallel computing | Notebk | PS2 |
 | May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
-| May 11 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
+| May 11 | M | Workshop papers/office visits | Schedule |  |
 | May 13 | W | Dynamic programming with interpolation | Notebk | PS3 |
 | May 18 | M | Dynamic programming with interpolation |  |  |
-| May 20 | W | Workshop papers/office visits |  | [PS3](Assignments/PS3/PS3.pdf) |
+| May 20 | W | Workshop papers/office visits |  |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Methods/initial results section](Assignments/methods-results.md) |
+| May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Methods/initial results section due](Assignments/methods-results.md) |
 | Jun  1 | M | Overlapping generations models | Notes | PS4 |
 | Jun  3 | W | Overlapping generations models |       | [Poster](Assignments/poster.md) |
 | Jun 4-5 | Th-Fri | Zoom poster presentations |  |  |
