@@ -67,7 +67,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) |  |
 | Apr  8 | W | Abstract/intro/conclusion | Slides |  |
 | Apr 13 | M | Theory section of paper | Slides |  |
-| Apr 15 | W | Proposal presentations |  | [Proposal slides & present](Assignments/project-proposal.md) |
+| Apr 14 | Tu |  |  | [Proposal slides due](Assignments/project-proposal.md) |
+| Apr 15 | W | Proposal presentations |  | [Proposal presentations](Assignments/project-proposal.md) |
 | Apr 20 | M | Data/methods section of paper | Slides |  |
 | Apr 22 | W | Computational results section of paper | Slides |  |
 | Apr 27 | M | Kernel density estimation | Notebk | PS1 |
