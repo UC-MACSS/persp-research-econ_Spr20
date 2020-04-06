@@ -62,29 +62,29 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 ## Course schedule
 
-| Date | Day | Topic | Reading | Assignment |
-|------|-----|-------|---------|------------|
-| Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) |  |
-| Apr  8 | W | Abstract/intro/conclusion | Slides |  |
-| Apr 13 | M | Theory section of paper | Slides |  |
-| Apr 14 | Tu |  |  | [Proposal slides due](Assignments/project-proposal.md) |
-| Apr 15 | W | Proposal presentations |  | [Proposal presentations](Assignments/project-proposal.md) |
-| Apr 20 | M | Data/methods section of paper | Slides |  |
-| Apr 22 | W | Computational results section of paper | Slides |  |
-| Apr 27 | M | Kernel density estimation | Notebk | PS1 |
-| Apr 29 | W | Kernel density estimation |  | [Lit review section due](Assignments/lit-review.md) |
-| May  4 | M | Parallel computing | Notebk | PS2 |
-| May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
-| May 11 | M | Workshop papers/office visits | Schedule |  |
-| May 13 | W | Dynamic programming with interpolation | Notebk | PS3 |
-| May 18 | M | Dynamic programming with interpolation |  |  |
+| Date | Day | Topic | Reading | Recording | Assignment |
+|------|-----|-------|---------|-----------|------------|
+| Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) | [Join Zoom](https://uchicago.zoom.us/j/899247907) |  |
+| Apr  8 | W | Abstract/intro/conclusion | Slides | Join Zoom |  |
+| Apr 13 | M | Theory section of paper | Slides | Join Zoom |  |
+| Apr 14 | Tu |  |  |  | [Proposal slides due](Assignments/project-proposal.md) |
+| Apr 15 | W | Proposal presentations |  | Join Zoom | [Proposal presentations](Assignments/project-proposal.md) |
+| Apr 20 | M | Data/methods section of paper | Slides | Join Zoom |  |
+| Apr 22 | W | Computational results section of paper | Slides | Join Zoom |  |
+| Apr 27 | M | Kernel density estimation | Notebk | Join Zoom | PS1 |
+| Apr 29 | W | Kernel density estimation |  | Join Zoom | [Lit review section due](Assignments/lit-review.md) |
+| May  4 | M | Parallel computing | Notebk | Join Zoom | PS2 |
+| May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | Join Zoom |  |
+| May 11 | M | Workshop papers/office visits | Schedule |  |  |
+| May 13 | W | Dynamic programming with interpolation | Notebk | Join Zoom | PS3 |
+| May 18 | M | Dynamic programming with interpolation |  | Join Zoom |  |
 | May 20 | W | Workshop papers/office visits | Schedule |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Methods/initial results section due](Assignments/methods-results.md) |
-| Jun  1 | M | Overlapping generations models | Notes | PS4 |
-| Jun  3 | W | Overlapping generations models |       | [Poster due](Assignments/poster.md) |
-| Jun 4-5 | Th-Fri | Zoom poster presentations |  |  |
-| Jun  10 | W | Final papers due at 11:59pm |  | [Papers due](Assignments/final-paper.md) |
+| May 27 | W | Effective presentations, poster, slides | Slides/Notes | Join Zoom | [Methods/initial results section due](Assignments/methods-results.md) |
+| Jun  1 | M | Overlapping generations models | Notes | Join Zoom | PS4 |
+| Jun  3 | W | Overlapping generations models |       | Join Zoom | [Poster due](Assignments/poster.md) |
+| Jun 4-5 | Th-Fri | Zoom poster presentations |  | Join Zoom |  |
+| Jun  10 | W | Final papers due at 11:59pm |  |  | [Papers due](Assignments/final-paper.md) |
 
 
 ## References and Readings
