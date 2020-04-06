@@ -3,7 +3,7 @@
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) |
 |--------------|--------------------------------------------------|
 | Email | rwevans@uchicago.edu |
-| Office | 208 McGiffert House |
+| Office | 1155 E 60th St, Room 217 (but really in Utah) |
 | Office Hours | M 3:00-5:00pm |
 | GitHub | [rickecon](https://github.com/rickecon) |
 
@@ -65,26 +65,26 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Date | Day | Topic | Reading | Assignment |
 |------|-----|-------|---------|------------|
 | Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) |  |
-| Apr  8 | W | Abstract/intro/conclusion | [Slides](Slides/IntroAbsConcl_slides.pdf) |  |
-| Apr  13 | M | Theory section of paper | [Slides](Slides/TheorySection_slides.pdf) |  |
-| Apr 10 | W | Proposal presentations |  | [Proposal slides & present](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/project-proposal.md) |
-| Apr 15 | M | Data/methods section of paper | [Slides](Slides/DataSection_slides.pdf) |  |
-| Apr 17 | W | Computational results section of paper | [Slides](Slides/ResultsSection_slides.pdf) |  |
-| Apr 22 | M | Kernel density estimation | [Notebk](Notebooks/KDE/KDE.ipynb) | [PS1](Assignments/PS1/PS1.pdf) |
-| Apr 24 | W | Parallel computing | [Notebk](Notebooks/Parallel/parallel.ipynb) |  |
-| Apr 29 | M |  |  | [Literature review section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/lit-review.md) |
-| May  1 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
-| May  6 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
-| May  8 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [PS2](Assignments/PS2/PS2.pdf) |
-| May 13 | M | Dynamic programming with interpolation |  |  |
-| May 15 | W | Overlapping generations models | [Notes](Notes/OGtext_ch02.pdf) | [PS3](Assignments/PS3/PS3.pdf) |
-| May 20 | M | Overlapping generations models |  |  |
-| May 22 | W | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) | [Methods/initial results section](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/methods-results.md) |
-| May 27 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 29 | W | Effective presentations, poster, slides | [Notes](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md)  |  |
-| Jun  3 | M | Markov and hidden Markov models | [Notebk](Notebooks/Markov/Markov.ipynb) | [PS 4](Assignments/PS4/PS4.pdf) |
-| Jun  5 | W | In-class poster presentations |  | [Poster](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/poster.md) |
-| Jun  12 | W | Final papers due at 11:59pm |  | [Papers due](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/Assignments/final-paper.md) |
+| Apr  8 | W | Abstract/intro/conclusion | Slides |  |
+| Apr 13 | M | Theory section of paper | Slides |  |
+| Apr 15 | W | Proposal presentations |  | [Proposal slides & present](Assignments/project-proposal.md) |
+| Apr 20 | M | Data/methods section of paper | Slides |  |
+| Apr 22 | W | Computational results section of paper | Slides |  |
+| Apr 27 | M | Kernel density estimation | Notebk | PS1 |
+| Apr 29 | W | Kernel density estimation | [Lit review section due](Assignments/lit-review.md) |  |
+| Apr 29 | W | Parallel computing | Notebk | PS2 |
+| May  4 | M |  |  |  |
+| May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) |  |
+| May 11 | M | Workshop papers/office visits | [Schedule](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/OfficeVisits/README.md) |  |
+| May 13 | W | Dynamic programming with interpolation | Notebk | PS3 |
+| May 18 | M | Dynamic programming with interpolation |  |  |
+| May 20 | W | Workshop papers/office visits |  | [PS3](Assignments/PS3/PS3.pdf) |
+| May 25 | M | **No class (Memorial Day Holiday)** |  |  |
+| May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Methods/initial results section](Assignments/methods-results.md) |
+| Jun  1 | M | Overlapping generations models | Notes | PS4 |
+| Jun  3 | W | Overlapping generations models |       | [Poster](Assignments/poster.md) |
+| Jun 4-5 | Th-Fri | Zoom poster presentations |  |  |
+| Jun  10 | W | Final papers due at 11:59pm |  | [Papers due](Assignments/final-paper.md) |
 
 
 ## References and Readings
