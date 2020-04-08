@@ -30,7 +30,7 @@ This course focuses on applying computational methods to conducting social scien
 Students will turn assignments in via their own public GitHub fork of the main class repository (e.g., `https://github.com/YourGitHubHandle/persp-research-econ_Spr20`). The directory structure of this repository should be the following.
 
 * `github.com/YourGithubHandle/persp-research-econ_Spr20/`
-  * ProblemSets
+  * Assignments
     * PS1
     * PS2
     * PS3
