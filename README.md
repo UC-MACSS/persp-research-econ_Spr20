@@ -64,8 +64,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 
 | Date | Day | Topic | Reading | Recording | Assignment |
 |------|-----|-------|---------|-----------|------------|
-| Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) | [Join Zoom](https://uchicago.zoom.us/j/899247907) |  |
-| Apr  8 | W | Abstract/intro/conclusion | Slides | Join Zoom |  |
+| Apr  6 | M | Overview/reproducibility in science | [Slides](Slides/Reprod_slides.pdf) | [Video](https://uchicago.zoom.us/rec/play/upUudeuhqDo3S4DHtwSDBfR-W43pLais2yAa_vIEyBnjAndWOgb0NbJDMOFDTfeWkWx0qMBVcgqHTPt0) |  |
+| Apr  8 | W | Abstract/intro/conclusion | [Slides](Slides/IntroAbsConcl_slides.pdf) | [Join Zoom](https://uchicago.zoom.us/j/440721471) |  |
 | Apr 13 | M | Theory section of paper | Slides | Join Zoom |  |
 | Apr 14 | Tu |  |  |  | [Proposal slides due](Assignments/project-proposal.md) |
 | Apr 15 | W | Proposal presentations |  | Join Zoom | [Proposal presentations](Assignments/project-proposal.md) |
