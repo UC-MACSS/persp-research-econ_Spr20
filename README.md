@@ -68,8 +68,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr  8 | W | Abstract/intro/conclusion | [Slides](Slides/IntroAbsConcl_slides.pdf) |  |  |
 | Apr 13 | M | Theory section of paper | [Slides](Slides/TheorySection_slides.pdf) | [Video](https://uchicago.zoom.us/rec/play/7J0rduD7-G43HYWd5ASDUaAoW9W_Laus0nAb-fUExUvnACMKMwGvN-MRZbeC65lh9TikRbqpQgtbBP9r) |  |
 | Apr 14 | Tu |  |  |  | [Proposal slides due](Assignments/project-proposal.md) |
-| Apr 15 | W | Proposal presentations |  | [Join Zoom](https://uchicago.zoom.us/j/98288583716) | [Proposal presentations](Proposal/README.md) |
-| Apr 20 | M | Data/methods section of paper | Slides | Join Zoom |  |
+| Apr 15 | W | Proposal presentations |  | [Video](https://uchicago.zoom.us/rec/play/6JIsf7v6r2o3SdfE5ASDAfZ_W9W6Lqis0nUb-aUMzB7hU3gEZgekNbcRYLc5y8PA3qK4879I40KTfZ5J) | [Proposal presentations](Proposal/README.md) |
+| Apr 20 | M | Data section of paper | [Slides](Slides/DataSection_slides.pdf) | [Join Zoom](https://uchicago.zoom.us/j/98880500950) |  |
 | Apr 22 | W | Computational results section of paper | Slides | Join Zoom |  |
 | Apr 27 | M | Kernel density estimation | Notebk | Join Zoom | PS1 |
 | Apr 29 | W | Kernel density estimation |  | Join Zoom | [Lit review section due](Assignments/lit-review.md) |
