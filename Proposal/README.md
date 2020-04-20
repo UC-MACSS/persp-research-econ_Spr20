@@ -1,6 +1,6 @@
 # Proposal Session, April 15, 2020
 
-Proposal slides will be presented via [Zoom meeting](https://uchicago.zoom.us/j/98288583716) April 15, 2020 during regular class time from 1:30p to 2:50p Chicago Time. Students will have approximately 5 minutes to present 10 slides that follow the instructions in the [Proposal assignment rubric](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Assignments/project-proposal.md). The order of presentation will be the following.
+Proposal slides will be presented via Zoom meeting April 15, 2020 during regular class time from 1:30p to 2:50p Chicago Time (video of presentations available [here](https://uchicago.zoom.us/rec/play/6JIsf7v6r2o3SdfE5ASDAfZ_W9W6Lqis0nUb-aUMzB7hU3gEZgekNbcRYLc5y8PA3qK4879I40KTfZ5J)). Students will have approximately 5 minutes to present 10 slides that follow the instructions in the [Proposal assignment rubric](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Assignments/project-proposal.md). The order of presentation will be the following. I have posted links to the students individual slides below.
 
 | Time  |   Student       | Slides |
 |-------|-----------------|--------|
