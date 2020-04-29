@@ -71,8 +71,8 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | Apr 15 | W | Proposal presentations |  | [Video](https://uchicago.zoom.us/rec/play/6JIsf7v6r2o3SdfE5ASDAfZ_W9W6Lqis0nUb-aUMzB7hU3gEZgekNbcRYLc5y8PA3qK4879I40KTfZ5J) | [Proposal presentations](Proposal/README.md) |
 | Apr 20 | M | Data section of paper | [Slides](Slides/DataSection_slides.pdf) | [Video](https://uchicago.zoom.us/rec/play/vZUvd-D7_G83TtzHtgSDV6B5W9W9faqs0ncc-vsKxBzmViMDN1unZrJHY-JnJyFfRYSO-LecQicjEZ1d) |  |
 | Apr 22 | W | Computational results section of paper | [Slides](Slides/ResultsSection_slides.pdf) | [Video](https://uchicago.zoom.us/rec/play/u5Qkdrv9rG03H4WQtgSDC_J6W464Kqys2ycY-qEFxB2xUXgHZ1KkZOMTYLGQjtfXWlmb-_Gd7nJf9Dtw) |  |
-| Apr 27 | M | Kernel density estimation | [Notebk1](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) | [Join Zoom](https://uchicago.zoom.us/j/94621972730) | [PS1](ProblemSets/PS1/PS1.pdf) |
-| Apr 29 | W | Kernel density estimation | [Notebk2](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/KDE.ipynb) | Join Zoom | [Lit review section due](Assignments/lit-review.md) |
+| Apr 27 | M | Kernel density estimation | [Notebk1](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/05.13-Kernel-Density-Estimation.ipynb) | [Video](https://uchicago.zoom.us/rec/play/vMJ5dur5pjw3TtaXsgSDBv8rW46-eqmshncWr_dYmU-0UnJSMQfybrdEZLEqA35UzvXawvFOC0Gp6hus) | [PS1](ProblemSets/PS1/PS1.pdf) |
+| Apr 29 | W | Kernel density estimation | [Notebk2](https://github.com/UC-MACSS/persp-research-econ_Spr20/blob/master/Notebooks/KDE/KDE.ipynb) | [Join Zoom](https://uchicago.zoom.us/j/93492565364) | [Lit review section due](Assignments/lit-review.md) |
 | May  4 | M | Parallel computing | Notebk | Join Zoom | PS2 |
 | May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | Join Zoom |  |
 | May 11 | M | Workshop papers/office visits | Schedule |  |  |
