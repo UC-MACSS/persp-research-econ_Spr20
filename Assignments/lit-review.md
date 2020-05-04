@@ -2,7 +2,7 @@
 
 **Write a literature review for your project**
 
-1. Write a three-to-six page literature review for your project with complete citations that are references in a "References" page that is separate from your 3-6 pages of literature review.
+1. Write a three-to-six page literature review for your project with complete citations that are references in a "References" page that is separate from your 3-6 pages of literature review. (1.5 line spacing [not single, not double]; size 11pt or 12pt font; 1-inch top, bottom, and side margins)
 2. Your literature review should have at least 8 references.
 3. You must give the context of each paper you cite and state its relevance to your paper. A good literature review provides answers to the following questions: (i) How have others answered similar questions? (ii) Who else has used similar data? (iii) Who else has used similar models or methods? (iv) What is my paper's contribution to this literature? Where does my paper fit?
 4. This literature review should be an extensive survey of the literature relevant to your research question. Note that this is different from what you will include in the introductions of your final project papers.
