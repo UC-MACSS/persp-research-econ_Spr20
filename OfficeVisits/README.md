@@ -11,7 +11,7 @@ For the Monday, May 11 visits, your participation is optional. You may sign up v
 |-------|---------------|
 | 1:30p |               |
 | 1:45p |               |
-| 2:00p | Erik Karsten  |
+| 2:00p | Eric Karsten  |
 | 2:15p |               |
 | 2:30p |               |
 | 2:45p |               |
