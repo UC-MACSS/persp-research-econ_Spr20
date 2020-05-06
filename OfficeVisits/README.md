@@ -7,16 +7,16 @@ For the Monday, May 11 visits, your participation is optional. You may sign up v
 
 ## Monday, May 11 Project Consultation Sign-up
 
-| Time  | Students      |
-|-------|---------------|
-| 1:30p |               |
-| 1:45p |               |
-| 2:00p | Eric Karsten  |
-| 2:15p |               |
-| 2:30p |               |
-| 2:45p |               |
-| 3:00p |               |
-| 3:15p |               |
-| 3:30p |               |
-| 3:45p |               |
-| 4:00p |               |
+| Time  | Students           |
+|-------|--------------------|
+| 1:30p |                    |
+| 1:45p |                    |
+| 2:00p | Eric Karsten       |
+| 2:15p |                    |
+| 2:30p | Yutian Lai         |
+| 2:45p |                    |
+| 3:00p | Jielu (Leah) He    |
+| 3:15p |                    |
+| 3:30p | Yuting (Brenda) Wu |
+| 3:45p |                    |
+| 4:00p |                    |
