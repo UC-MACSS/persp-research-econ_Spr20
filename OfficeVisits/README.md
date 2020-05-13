@@ -3,9 +3,9 @@
 
 This page lists the time slots available and scheduled for the two sessions of office visits with Dr. Evans. All consultations will be held via Zoom meeting on Dr. Evans' Zoom meeting office hour ID ([https://uchicago.zoom.us/j/95309345411](https://uchicago.zoom.us/j/95309345411))
 
-For the Wednesday, May 20 visits, your participation is optional. You may sign up via the GitHub issue. You will have 15 minutes to discuss your progress and any issues with your papers. If you need extra help, you can schedule further consultation directly.
-
 ## Wednesday, May 20 Project Consultation Sign-up
+
+For the Wednesday, May 20 visits, your participation is optional. You may sign up via the GitHub issue. You will have 15 minutes to discuss your progress and any issues with your papers. If you need extra help, you can schedule further consultation directly.
 
 | Time  | Students           |
 |-------|--------------------|
@@ -21,10 +21,9 @@ For the Wednesday, May 20 visits, your participation is optional. You may sign u
 | 3:45p |                    |
 | 4:00p |                    |
 
+## Monday, May 11 Project Consultation Sign-up
 
 For the Monday, May 11 visits, your participation is optional. You may sign up via the GitHub issue. You will have 15 minutes to discuss your progress and any issues with your papers. If you need extra help, you can schedule further consultation directly.
-
-## Monday, May 11 Project Consultation Sign-up
 
 | Time  | Students           |
 |-------|--------------------|
