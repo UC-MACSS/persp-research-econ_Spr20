@@ -19,7 +19,7 @@ For the Wednesday, May 20 visits, your participation is optional. You may sign u
 | 3:15p |                    |
 | 3:30p |                    |
 | 3:45p |                    |
-| 4:00p |                    |
+| 4:00p | Yuming Liu         |
 
 ## Monday, May 11 Project Consultation Sign-up
 
