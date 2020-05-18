@@ -13,7 +13,7 @@ For the Wednesday, May 20 visits, your participation is optional. You may sign u
 | 1:45p |                    |
 | 2:00p |                    |
 | 2:15p |                    |
-| 2:30p |                    |
+| 2:30p | Anqi Zhou          |
 | 2:45p |                    |
 | 3:00p | Jielu He           |
 | 3:15p |                    |
