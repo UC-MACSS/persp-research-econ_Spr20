@@ -17,7 +17,7 @@ For the Wednesday, May 20 visits, your participation is optional. You may sign u
 | 2:45p |                    |
 | 3:00p | Jielu He           |
 | 3:15p |                    |
-| 3:30p |                    |
+| 3:30p | Linghui Wu         |
 | 3:45p |                    |
 | 4:00p | Yuming Liu         |
 
