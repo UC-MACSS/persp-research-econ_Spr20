@@ -94,8 +94,8 @@ You will present the digital version of your poster via Zoom meeting with Dr. Ev
 
 ## Examples of scientific posters
 * Bad poster: "[Pigs in Space...](https://i.pinimg.com/originals/18/1a/6c/181a6cd948f5f0ac02bdd0509db90779.jpg)"
-* Good poster: Soltoff, "[Do Decisions Follow Dollars?](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/poster-example-1.pdf)"
-* Good poster: Soltoff, "[A Matched Case Analysis...](https://github.com/UC-MACSS/persp-research-econ_Spr19/blob/master/templates/poster-example-2.pdf)"
+* Good poster: Soltoff, "[Do Decisions Follow Dollars?](templates/poster-example-1.pdf)"
+* Good poster: Soltoff, "[A Matched Case Analysis...](templates/poster-example-2.pdf)"
 * Good and bad examples, [Duke Econ poster page](https://econ.duke.edu/node/17399)
 * [AEA 2020 poster session videos](https://www.aeaweb.org/conference/videos/2020)
 * [AEA 2017 poster session posters](https://www.aeaweb.org/conference/2017/preliminary/2124)
