@@ -77,7 +77,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May  6 | W | Parallel computing | [Dask Tutorial](https://github.com/dask/dask-tutorial) | [Video](https://uchicago.zoom.us/rec/play/uMV5Iemvqj43TN2csgSDB6UvW9TpfKus1XMf86UNnUm0UHQEY1OhN-cRM7GyoJX_g3ZOU81q3qB8X6EI) |  |
 | May 11 | M | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#monday-may-11-project-consultation-sign-up) |  |  |
 | May 13 | W | Dynamic programming with interpolation | [Notebk](Notebooks/DynProgIntpl/DynProgIntpl.ipynb) | [Video](https://uchicago.zoom.us/rec/play/7J0sdrurrDg3T4aStQSDUf56W9TuKa-s1SkYqPUJxRy8UCNXYFakYeFGYeCO-S46k9v529HgDb-Ud63K) | [PS3](ProblemSets/PS3/PS3.pdf) |
-| May 18 | M | Dynamic programming with interpolation |  | [Join Zoom](https://uchicago.zoom.us/j/94098666836) |  |
+| May 18 | M | Dynamic programming with interpolation |  | [Video](https://uchicago.zoom.us/rec/play/ucF5JOqpqm83S9TB5QSDU_F6W469Lqys2yFK_fMNxU3nBiZQNlr0YrFAauHpCL2Gr_SZjX9GYJ0DQWD1) |  |
 | May 20 | W | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#wednesday-may-20-project-consultation-sign-up) |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
 | May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Join Zoom](https://uchicago.zoom.us/j/92545934316) | [Methods/initial results section due](Assignments/methods-results.md) |
