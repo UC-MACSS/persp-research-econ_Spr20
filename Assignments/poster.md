@@ -34,13 +34,13 @@ You will present the digital version of your poster via Zoom meeting with Dr. Ev
 * Other
     * [Duke Econ poster templates](https://econ.duke.edu/node/17399)
 
-## Steps to print poster
+## Steps to print poster (no hard copy required this term)
 1. Use your template to render your poster as a PDF.
 2. Proof-read the poster for typos or weird visual issues.
 3. Give the electronic file to the printer
 4. Your poster does NOT need to be laminated, and does NOT need to have foam core backing. We will provide the core backing when you present your poster.
 
-## Where to print the poster
+## Where to print the poster (no hard copy required this term)
 * John Crerar Library, [PSD Graphic Arts](http://graphicarts.uchicago.edu/)
     * Around $50 for a 24 x 36 inch non-laminated poster
     * Around $85 for a 36 x 48 inch non-laminated poster
