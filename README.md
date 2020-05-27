@@ -80,7 +80,7 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 18 | M | Dynamic programming with interpolation |  | [Video](https://uchicago.zoom.us/rec/play/ucF5JOqpqm83S9TB5QSDU_F6W469Lqys2yFK_fMNxU3nBiZQNlr0YrFAauHpCL2Gr_SZjX9GYJ0DQWD1) |  |
 | May 20 | W | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#wednesday-may-20-project-consultation-sign-up) |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
-| May 27 | W | Effective presentations, poster, slides | Slides/Notes | [Join Zoom](https://uchicago.zoom.us/j/92545934316) | [Methods/initial results section due](Assignments/methods-results.md) |
+| May 27 | W | Effective presentations, poster, slides | [Slides](Slides/persp_presenting_research_slides.html)/[Notes](Assignments/poster.md) | [Join Zoom](https://uchicago.zoom.us/j/92545934316) | [Methods/initial results section due](Assignments/methods-results.md) |
 | Jun  1 | M | Overlapping generations models | Notes | Join Zoom | PS4 |
 | Jun  3 | W | Overlapping generations models |       | Join Zoom | [Poster due](Assignments/poster.md) |
 | Jun 4-5 | Th-Fri | Zoom poster presentations |  | Join Zoom |  |
