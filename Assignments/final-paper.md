@@ -5,6 +5,7 @@
 
 ## Grading rubric
 1. Did you use appropriate advanced computational methods (10 points)
+    * Post your code and data, and maybe instructional `README.md` files, that you used in the analyses of your paper. You might put your data in a directory named `data/` at the same level 
 2. Clarity of research question and convincingness of answer. (10 points)
 3. Effective use of visualizations and tables. (10 points)
     * Visualizations and tables should stand on their own.
