@@ -81,9 +81,9 @@ If you need any special accommodations, please provide us with a copy of your Ac
 | May 20 | W | Workshop papers/office visits | [Schedule](OfficeVisits/README.md#wednesday-may-20-project-consultation-sign-up) |  |
 | May 25 | M | **No class (Memorial Day Holiday)** |  |  |
 | May 27 | W | Effective presentations, poster, slides | [Slides](Slides/persp_presenting_research_slides.html)/[Notes](Assignments/poster.md) | [Join Zoom](https://uchicago.zoom.us/j/92545934316) | [Methods/initial results section due](Assignments/methods-results.md) |
-| Jun  1 | M | Overlapping generations models |[Notes](Notes/OGtext_ch02.pdf) | [Join Zoom](https://uchicago.zoom.us/j/96197481632) | PS4 |
+| Jun  1 | M | Overlapping generations models |[Notes](Notes/OGtext_ch02.pdf) | [Join Zoom](https://uchicago.zoom.us/j/96197481632) | [PS4](ProblemSets/PS4/PS4.pdf) |
 | Jun  3 | W | Overlapping generations models |       | Join Zoom | [Poster due](Assignments/poster.md) |
-| Jun 4-5 | Th-Fri | Zoom poster presentations |  | Join Zoom |  |
+| Jun 4-5 | Th-Fri | Zoom poster presentations (CANCELLED) |  |  |  |
 | Jun  10 | W | Final papers due at 11:59pm |  |  | [Papers due](Assignments/final-paper.md) |
 
 
