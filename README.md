@@ -18,13 +18,13 @@ This course focuses on applying computational methods to conducting social scien
 
 |     Assignment              | Points | Quantity | Total points | Percent |
 |-----------------------------|--------|----------|--------------|---------|
-| Proposal                    |    10  |      1   |        10    |   6.2%  |
-| Literature review           |    15  |      1   |        15    |   9.4%  |
-| Methods/initial results     |    15  |      1   |        15    |   9.4%  |
-| Peer evaluations of posters |     2  |      5   |        10    |   6.2%  |
-| Poster presentation         |    30  |      1   |        30    |  18.8%  |
-| Final paper                 |    40  |      1   |        40    |  25.0%  |
-| Problem sets                |    10  |      4   |        40    |  25.0%  |
+| Proposal                    |    10  |      1   |        10    |   6.7%  |
+| Literature review           |    15  |      1   |        15    |  10.0%  |
+| Methods/initial results     |    15  |      1   |        15    |  10.0%  |
+| Peer evaluations of posters |     2  |      5   |         0    |   0.0%  |
+| Poster presentation         |    30  |      1   |        30    |  20.0%  |
+| Final paper                 |    40  |      1   |        40    |  26.7%  |
+| Problem sets                |    10  |      4   |        40    |  26.7%  |
 | **Total Points**            |        |          |       160    | 100.0%  |
 
 Students will turn assignments in via their own public GitHub fork of the main class repository (e.g., `https://github.com/YourGitHubHandle/persp-research-econ_Spr20`). The directory structure of this repository should be the following.
